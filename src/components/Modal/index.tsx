@@ -1,4 +1,3 @@
-import { Component, useState } from "react";
 import ReactModal from "react-modal";
 
 interface ModalProps {
